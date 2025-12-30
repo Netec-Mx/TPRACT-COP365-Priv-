@@ -24,7 +24,7 @@ Al completar este laboratorio, serás capaz de:
 **Objetivo:** Usar Copilot para crear un resumen básico de un correo prioritario.
 
 **Instrucciones:**
-1. Abrir Outlook.
+1. Abrir **Outlook**.
 2. Seleccionar un correo importante y de cierta extensión.
 3. En la zona superior, seleccionar **"Resumen por Copilot"** y luego **"Pregúntale a Copilot"**.
 
@@ -43,11 +43,11 @@ Al completar este laboratorio, serás capaz de:
 7. En el cuerpo del correo, haz clic en el ícono de la zona **Borrador con Copilot**  
    *(Atajo: Alt + i)*.
 
-   ![Imagen 3.](/images/Imagen1.png "Imagen 3")
+   ![Imagen 3.](/images/Imagen3.png "Imagen 3")
 
 8. Aparecerá una lista de opciones.
 
-   ![Imagen 4.](/images/Imagen1.png "Imagen 4")
+   ![Imagen 4.](/images/Imagen4.png "Imagen 4")
 9. En el cuadro de texto, escribe el siguiente prompt y envíalo:
 ```
     Sugiere una respuesta para este correo.
@@ -61,7 +61,7 @@ Resume este correo en 1 oración ultra-concisa para un ejecutivo ocupado.  Luego
 11. Esto debe generar una segunda alternativa de respuesta.  
     Se puede navegar entre las opciones utilizando los botones de navegación.
 
-    ![Imagen 5.](/images/Imagen1.png "Imagen 5")
+    ![Imagen 5.](/images/Imagen5.png "Imagen 5")
 
 12. Agrega un prompt adicional y envíalo:
 
@@ -78,17 +78,19 @@ Resume este correo en 1 oración ultra-concisa para un ejecutivo ocupado.  Luego
 
 15. Itera entre las opciones. Usa las herramientas de la sección **"Modificar contenido"** para realizar ajustes si lo deseas.
 
-     ![Imagen 6.](/images/Imagen1.png "Imagen 6")
+     ![Imagen 6.](/images/Imagen6.png "Imagen 6")
 
 16. Elige la opción de respuesta que prefieras y haz clic en **Conservar**.
 
+      ![Imagen 7.](/images/Imagen7.png "Imagen 7")
 17. Para mejorar el tono o la consistencia de las respuestas, puedes cambiar la configuración base:
     - Selecciona **Configuración** en Outlook (ícono de tuerca en la esquina superior derecha).
     - Luego selecciona **Copilot**.
     - Finalmente, elige **Instrucciones de borrador**.
 
-     ![Imagen 7.](/images/Imagen1.png "Imagen 7")
+     ![Imagen 8.](/images/Imagen8.png "Imagen 8")
 
+    ![Imagen 9.](/images/Imagen9.png "Imagen 9")
 
 18. Usa la zona de instrucciones personalizadas para cambiar el tono. Por ejemplo:
 ```
@@ -114,17 +116,17 @@ Sugiere una respuesta para este correo
 
 23. Selecciona **Descartar**.
 
-![Imagen 8.](/images/Imagen1.png "Imagen 8")
+![Imagen 10.](/images/Imagen10.png "Imagen 10")
 
 24. Selecciona otro correo importante a tu elección.
 
 25. Abre el panel lateral de Copilot (puedes usar el botón flotante de la esquina inferior derecha).
 
-![Imagen 9.](/images/Imagen1.png "Imagen 9")
+![Imagen 11.](/images/Imagen11.png "Imagen 11")
 
 26. Espera a que el panel lateral de Copilot abra correctamente.
 
-![Imagen 10.](/images/Imagen1.png "Imagen 10")
+![Imagen 12.](/images/Imagen12.png "Imagen 12")
 
 27. Escribe y aplica el siguiente prompt:
 ```
@@ -167,7 +169,7 @@ D. RESPUESTA SUGERIDA: Sugiere una respuesta para el correo.
 
 34. Puedes copiar alguna respuesta sugerida usando el botón **Copiar respuesta**.
 
-![Imagen 11.](/images/Imagen1.png "Imagen 11")
+![Imagen 13.](/images/Imagen13.png "Imagen 13")
 
 
 35. Luego, abre el correo y responde: pega la respuesta sugerida y edítala con Copilot usando las técnicas de los pasos previos, si lo deseas.
@@ -201,10 +203,10 @@ Al completar este laboratorio, serás capaz de:
 1. Abrir Teams.
 2. Seleccionar la opción **Copilot** del menú lateral.
 
-   ![Imagen 12.](/images/Imagen1.png "Imagen 12")
+   ![Imagen 14.](/images/Imagen14.png "Imagen 14")
 3. Espera a que cargue correctamente la ventana integrada de **Copilot Chat** en Teams.
 
-   ![Imagen 13.](/images/Imagen1.png "Imagen 13")
+   ![Imagen 15.](/images/Imagen15.png "Imagen 15")
 4. En el cuadro de texto, escribe el siguiente prompt y envíalo:
 
 ```
@@ -232,7 +234,7 @@ Lista las reuniones en las que participó usuario@demo.com las últimas 2 semana
 
 8. Obtendrás un resultado similar al siguiente (imagen referencial).
 
-   ![Imagen 14.](/images/Imagen1.png "Imagen 14")
+   ![Imagen 16.](/images/Imagen16.png "Imagen 16")
 
 9. Descarga el Word y revísalo.
 
@@ -245,21 +247,21 @@ Lista las reuniones en las que participó usuario@demo.com las últimas 2 semana
 
 2. Desde el menú lateral izquierdo, abrir la aplicación **Reunirse**.
 
-![Imagen 15.](/images/Imagen1.png "Imagen 15")
+![Imagen 17.](/images/Imagen17.png "Imagen 17")
 
 
 3. Esperar a que cargue la aplicación. Debe poder visualizar la aplicación de reuniones (imagen referencial).
 
-   ![Imagen 16.](/images/Imagen1.png "Imagen 16")
+   ![Imagen 18.](/images/Imagen18.png "Imagen 18")
 
 4. Buscar alguna reunión grabada que sea de su interés y abrirla (imagen referencial).
 
-   ![Imagen 17.](/images/Imagen1.png "Imagen 17")
+   ![Imagen 19.](/images/Imagen19.png "Imagen 19")
 
 5. Esperar unos momentos hasta que aparezca el detalle de la reunión.
 
 6. En la zona derecha de la pantalla, seleccionar la opción **“Resumen por IA”**.
-   ![Imagen 18.](/images/Imagen1.png "Imagen 18")
+   ![Imagen 20.](/images/Imagen20.png "Imagen 20")
 
 7. Revisar el resumen de la reunión.
 
@@ -267,7 +269,7 @@ Lista las reuniones en las que participó usuario@demo.com las últimas 2 semana
 
 9. Seleccionar el botón **Copilot**. Esto abrirá la barra lateral de Copilot. Esperar a que cargue completamente (imagen referencial).
 
-   ![Imagen 19.](/images/Imagen1.png "Imagen 19")
+   ![Imagen 21.](/images/Imagen21.png "Imagen 21")
 
 10. Escribir y enviar el siguiente prompt para resumir la reunión:
 
@@ -319,11 +321,11 @@ Resume esta reunión incluyendo:
 
 Al escribir el carácter **“/”**, se podrá buscar alguna de sus reuniones y seleccionar el ítem correspondiente como parte del prompt. La experiencia de búsqueda será similar a la mostrada en la imagen referencial.
 
- ![Imagen 20.](/images/Imagen1.png "Imagen 20")
+ ![Imagen 22.](/images/Imagen22.png "Imagen 22")
 
 20. Luego de seleccionar la reunión, deberá ver su prompt completado. Envíelo (imagen referencial).
 
-![Imagen 21.](/images/Imagen1.png "Imagen 21")
+![Imagen 23.](/images/Imagen23.png "Imagen 23")
 
 21. Revise el resumen generado.
 
@@ -338,7 +340,7 @@ Crea una reunión de seguimiento para la reunión /BUSCAR REUNION para preguntas
 23. **Opcional**  
    a. Debajo de la respuesta obtenida, si aparece la opción **“Continuar en Outlook”**, selecciónela (imagen referencial).
 
-![Imagen 22.](/images/Imagen1.png "Imagen 22")
+![Imagen 24.](/images/Imagen24.png "Imagen 24")
 
 24. Puede retornar a la respuesta del prompt, copiarla y pegarla en el cuerpo de la reunión, y terminar de configurar el evento según su conveniencia.
 
@@ -353,7 +355,7 @@ Crea una reunión de seguimiento para la reunión /BUSCAR REUNION para preguntas
 2. Seleccionar la opción **Copilot** del menú lateral.
 3. Esperar a que cargue correctamente la ventana integrada de **Copilot Chat** en Teams.
 
-![Imagen 23.](/images/Imagen1.png "Imagen 23")
+
 
 4. Escribir y aplicar el siguiente prompt:
 
@@ -378,9 +380,11 @@ Crea un resumen indicando los siguientes puntos:
 
 5. En los botones que aparecen debajo del resultado, seleccione el botón de **tres puntos ( … )** y luego la opción ```**“Programar esta consulta”** ``` (imagen referencial).
 
+![Imagen 25.](/images/Imagen25.png "Imagen 25")
+
 6. Aparecerá la ventana **“Programar una consulta”** (imagen referencial).
 
-![Imagen 24.](/images/Imagen1.png "Imagen 24")
+
 
 7. Configure la recurrencia según se requiera (**Comienza**, **Cada**, etc.).  
    También puede definir el número de veces que se ejecutará la consulta.  
@@ -388,6 +392,8 @@ Crea un resumen indicando los siguientes puntos:
    Finalmente, haga clic en **Guardar**.
 
 8. Aparecerá la ventana **“Consultas programadas”**, indicando que la consulta ha sido creada y se encuentra en estado **“Activo”** (imagen referencial).
+
+![Imagen 26.](/images/Imagen26.png "Imagen 26")
 
 **Nota:** Cada vez que se ejecute la consulta programada, recibirá un correo informativo con un enlace que lo llevará directamente al resultado desde la ventana de Copilot.
 
@@ -450,13 +456,13 @@ Usar Copilot para crear un resumen automático de un documento.
 
 3. En la parte superior del documento, ubique la sección **“Resumen de Copilot”** y haga clic en **Generar**.
 
-![Imagen 25.](/images/Imagen1.png "Imagen 25")
+![Imagen 27.](/images/Imagen27.png "Imagen 27")
 
 4. Espere a que Copilot genere el resumen y revise el contenido obtenido.
 
 5. En la parte inferior del resumen, ajuste la **extensión del resumen**.
 
-![Imagen 26.](/images/Imagen1.png "Imagen 26")
+![Imagen 28.](/images/Imagen28.png "Imagen 28")
 
 6. Cambie la opción de extensión de **Detallado** a **Breve** o **Estándar** y compare los resultados generados.
 
@@ -464,13 +470,13 @@ Usar Copilot para crear un resumen automático de un documento.
    - **Cifras clave del documento**
    - **Preguntas y respuestas sugeridas**
 
-   ![Imagen 27.](/images/Imagen1.png "Imagen 27")
+![Imagen 29.](/images/Imagen29.png "Imagen 29")
 
 8. Abra el **panel lateral de Copilot** haciendo clic en el botón de Copilot.
 
 9. Espere a que el panel lateral cargue correctamente.
 
-![Imagen 28.](/images/Imagen1.png "Imagen 28")
+![Imagen 30.](/images/Imagen30.png "Imagen 30")
 
 10. En el panel de Copilot, escriba y aplique el siguiente *prompt* general de resumen:
 
@@ -565,11 +571,11 @@ No inventes información. Si algún dato no está explícito en el documento, in
 
 5. Abra el panel de navegación de Copilot (imagen referencial).
 
-![Imagen 29.](/images/Imagen1.png "Imagen 29")
+![Imagen 31.](/images/Imagen31.png "Imagen 31")
 
 6. Busque la conversación más reciente (ubicada al inicio) y cambie su nombre por **“Resumen CO-STAR”** (imagen referencial).
 
-![Imagen 30.](/images/Imagen1.png "Imagen 30")
+![Imagen 32.](/images/Imagen32.png "Imagen 32")
 
 7. Cree un nuevo documento de Word en una ventana aparte.
 
@@ -577,22 +583,22 @@ No inventes información. Si algún dato no está explícito en el documento, in
 
 9. Al final de la respuesta obtenida, haga clic en **(+) Agregar al documento nuevo**.
 
-![Imagen 31.](/images/Imagen1.png "Imagen 31")
+![Imagen 33.](/images/Imagen33.png "Imagen 33")
 
 10. Seleccione el texto del documento.
 
 11. Usando Copilot sobre el texto insertado para cambiar la redacción, ingrese por ejemplo el prompt:  
 ``` *Cambia el tono a casual y reduce el contenido un 15%.* ```
 
-![Imagen 32.](/images/Imagen1.png "Imagen 32")
+![Imagen 34.](/images/Imagen34.png "Imagen 34")
 
-![Imagen 33.](/images/Imagen1.png "Imagen 33")
+![Imagen 35.](/images/Imagen35.png "Imagen 35")
 
-![Imagen 34.](/images/Imagen1.png "Imagen 34")
+![Imagen 36.](/images/Imagen36.png "Imagen 36")
 
 12. Decida si desea conservar, reemplazar, regenerar o descartar el texto generado usando la botonera inferior.
 
-![Imagen 35.](/images/Imagen1.png "Imagen 35")
+![Imagen 37.](/images/Imagen37.png "Imagen 37")
 
 13. Si lo desea, puede probar otros prompts como:  
 ```*Cambia el tono a más comercial y ejecutivo.*```
@@ -771,11 +777,11 @@ Usar Copilot para crear una presentación a partir de un documento Word existent
 
 2. Seleccione **Crear con Copilot**.
 
-![Imagen 36.](/images/Imagen1.png "Imagen 36")
+![Imagen 38.](/images/Imagen38.png "Imagen 38")
 
 3. Aparecerá la ventana **Crear una presentación con Copilot**.
 
-![Imagen 37.](/images/Imagen1.png "Imagen 37")
+![Imagen 39.](/images/Imagen39.png "Imagen 39")
 
 4. En el cuadro de texto, complete lo siguiente:
 
@@ -791,16 +797,16 @@ Copy code
 5. Ajuste **Longitud** a **Corta**, no cambie el **Modelo** (Default) y haga clic en **Enviar** (flecha direccional a la derecha)  
 (ver imagen referencial).
 
-![Imagen 38.](/images/Imagen1.png "Imagen 38")
+![Imagen 40.](/images/Imagen40.png "Imagen 40")
 
 
 6. Revise el **Esquema**, modifique el **Tono** (Sugerencias, Conversación, Profesional, Persuasivo, Motivador) por el que desee y haga clic en **Regenerar**.
 
-![Imagen 39.](/images/Imagen1.png "Imagen 39")
+![Imagen 41.](/images/Imagen41.png "Imagen 41")
 
 7. Agregue un nuevo tema (clic en el **+** ubicado en la zona inferior de la lista de diapositivas).
 
-![Imagen 40.](/images/Imagen1.png "Imagen 40")
+![Imagen 42.](/images/Imagen42.png "Imagen 42")
 
 8. Agregue un tema sobre ```
 los retos de la ciberseguridad con posibles ataques orquestados usando IA.  
@@ -809,11 +815,11 @@ Cite la fuente de información utilizada.```
 
 9. Seleccione un **Estilo de presentación**.
 
-![Imagen 41.](/images/Imagen1.png "Imagen 41")
+![Imagen 43.](/images/Imagen43.png "Imagen 43")
 
 10. Seleccione una **Preferencia de imagen**: Imágenes de archivo.
 
-![Imagen 42.](/images/Imagen1.png "Imagen 42")
+![Imagen 44.](/images/Imagen44.png "Imagen 44")
 
 11. Haga clic en **Generar diapositivas**.
 
@@ -821,16 +827,16 @@ Cite la fuente de información utilizada.```
 
 13. Seleccione la opción **Conversarlo**.
 
-![Imagen 43.](/images/Imagen1.png "Imagen 43")
+![Imagen 45.](/images/Imagen45.png "Imagen 45")
 
 14. Cambie a la vista **Normal**.
 
 15. Con la presentación generada, cree una nueva diapositiva con Copilot.  
    En la pestaña **Inicio**, seleccione **Nueva diapositiva con Copilot**.
 
-![Imagen 44](/images/Imagen1.png "Imagen 44")
+![Imagen 46](/images/Imagen46.png "Imagen 46")
 
-![Imagen 45.](/images/Imagen1.png "Imagen 45")
+![Imagen 47.](/images/Imagen47.png "Imagen 47")
 
 16. Escriba el siguiente prompt:
 
@@ -847,9 +853,41 @@ Copy code
 
 19. Cierre la presentación.
 
+## Ejercicio 2: Agregar un nuevo tema a una presentación
+
+### Objetivo
+Usar Copilot para agregar un tema a una presentación.
+
+
+### Instrucciones
+
+1. Abra PowerPoint.
+
+2. Abra la presentación guardada en el ejercicio anterior.
+
+3. Use el ícono de Copilot sobre el primer slide y seleccione **Agregar un tema**  
+
+![Imagen 48.](/images/Imagen48.png "Imagen 48")
+
+   (imagen referencial).
+
+4. Defina la ubicación del nuevo tema seleccionando **+ Agregar nuevo tema** en el lugar donde desea insertarlo.
+
+5. Defina el siguiente prompt y envíelo:
+```
+Agregar un tema sobre los ataques de Ransomware, como se originan, posibles riesgos y como evitarlos en una organización
+```
+6. Observe el resultado y haga clic en **Generar diapositivas**.
+
+7. Seleccione la opción **Conversarlo**.
+
+8. Guarde la presentación nuevamente.
+
+9. Cierre la presentación.
+
 ## Ejercicio 3: Crear presentación desde cero (tema libre)
 
-##Objetivo:
+### Objetivo:
 
  Usar Copilot para crear una presentación desde cero, solo empleando un prompt con un tema libre  
 
@@ -868,7 +906,7 @@ Crea una presentacion acerca de ``` la invasión del rock británico. Añade fot
 
 6.	Cambie el Estilo de presentación y Preferencias de imagen según desee. Luego haga clic en Generar diapositivas  
 
-![Imagen 46.](/images/Imagen1.png "Imagen 46")
+![Imagen 49.](/images/Imagen49.png "Imagen 49")
 
 Nota: en este ejemplo se esta usando Estilo Standard: Serenidad moderna y en Preferencias de imagen, Origen: Imágenes generadas por IA, Fotorealista.
 
@@ -892,7 +930,7 @@ Nota: el tiempo de generación puede variar en función a las configuraciones ap
 
 15.	Posicionarse encima y seleccionar + Insertar
 
-![Imagen 47.](/images/Imagen1.png "Imagen 47")
+![Imagen 50.](/images/Imagen50.png "Imagen 50")
 
 
 16.	Hacer las modificaciones requeridas finales en el slide
@@ -936,7 +974,7 @@ Instrucciones:
 
 2. Aparecerá la página de Microsoft 365 Copilot Chat, similar a la siguiente (imagen referencial)
 
-![Imagen 48.](/images/Imagen1.png "Imagen 48")
+![Imagen 51.](/images/Imagen51.png "Imagen 51")
 
 3. En el cuadro de texto escriba y envie el siguiente prompt para poder conocer los correos que se han recibido:
 
@@ -952,7 +990,7 @@ Nota: reemplace los datos de las zonas de amarillo por otros que hagan sentido p
 
 4. Copilot generará una respuesta, espere un momento.
 
-![Imagen 49.](/images/Imagen1.png "Imagen 49")
+![Imagen 52.](/images/Imagen52.png "Imagen 52")
 
 5. Revise la respuesta. Es posible que tenga ítems de correo que pueda abrir, puede probar abriéndolos en Outlook si desea.
 
@@ -996,9 +1034,10 @@ Presenta el resultado en una tabla.
 
 ## Ejercicio 2: Planificación semanal
 
-Objetivo: Usar Copilot Chat para planificar las actividades de la semana  
+### Objetivo:
+ Usar Copilot Chat para planificar las actividades de la semana  
 
-Instrucciones:
+### Instrucciones:
 
 1. Abra Microsoft 365 Chat (https://m365.cloud.microsoft/chat)
 
@@ -1010,7 +1049,7 @@ Resume mi actividad de la última semana: ¿cuántos correos he recibido, cuánt
 
 4. Cree un nuevo chat. En la parte superior derecha seleccione el botón **Start a new chat**.
 
-![Imagen 49.](/images/Imagen1.png "Imagen 49")
+![Imagen 53.](/images/Imagen53.png "Imagen 53")
 
 5. Escriba y aplique el siguiente prompt:
 ``` 
@@ -1067,6 +1106,7 @@ ESFUERZO (Alto/Medio/Bajo):
 Alto: requiere >2 horas o múltiples sesiones
 Medio: 30 min - 2 horas
 Bajo: < 30 minutos
+
 
 Prioridad final: Alto Impacto + Bajo Esfuerzo = máxima prioridad
 
@@ -1143,7 +1183,7 @@ Nota: para cada zona de amarillo use los ítems que hagan sentido para su escena
 
 Es posible que para su facilidad sea mejor expandir las opciones inferiores de búsqueda de reuniones (imagen referencial)
 
-![Imagen 50.](/images/Imagen1.png "Imagen 50") 
+![Imagen 54.](/images/Imagen54.png "Imagen 54") 
 
 
 5.	Revise el resultado, ajuste el prompt según requiera.
@@ -1167,7 +1207,7 @@ Es posible que para su facilidad sea mejor expandir las opciones inferiores de b
 
 8.	Hacer clic en el botón Copiar respuesta
 
-![Imagen 51.](/images/Imagen1.png "Imagen 51")
+![Imagen 55.](/images/Imagen55.png "Imagen 55")
 
 
 
@@ -1175,13 +1215,13 @@ Es posible que para su facilidad sea mejor expandir las opciones inferiores de b
 
 10.	Abrir opción de Copilot sobre el texto pegado. Si desea disponer de mas espacio puede contraer temporalmente el panel lateral de Copilot
 
-![Imagen 52.](/images/Imagen1.png "Imagen 52")
+![Imagen 56.](/images/Imagen56.png "Imagen 56")
 
 
 
 11.	Seleccionar diferentes partes del correo, repasar las opciones ya vistas en anterior ejercicio como Reescritura automática, Hacer que sea más corto, Hacer que sea mas largo, Cambiar tono,  y opciones de la sección Indicaciones sugeridas (imagen referencial)
 
-![Imagen 53.](/images/Imagen1.png "Imagen 53")
+![Imagen 57.](/images/Imagen57.png "Imagen 57")
 
 
 12.	Revisar cada opción con calma, notando el cambio que opera sobre el contenido.
@@ -1207,7 +1247,7 @@ Nota: busque la reunion que usted desee para el ejemplo
 
 5.	Copie la respuesta.
 
-![Imagen 54.](/images/Imagen1.png "Imagen 54")
+![Imagen 58.](/images/Imagen58.png "Imagen 58")
 
 6.	Cree un nuevo correo.
 
@@ -1217,11 +1257,11 @@ Nota: busque la reunion que usted desee para el ejemplo
 
 9.	Utilizar la opción Obtener asesoramiento (imagen referencial)
 
-![Imagen 54.](/images/Imagen1.png "Imagen 54")
+![Imagen 59.](/images/Imagen59.png "Imagen 59")
 
 10.	Revisar el cuadro de sugerencias sobre Tono, Opinión del lector, Claridad
 
-![Imagen 55.](/images/Imagen1.png "Imagen 55")
+![Imagen 60.](/images/Imagen60.png "Imagen 60")
 
 11.	Seleccione Aplicar todas las sugerencias
 
@@ -1555,13 +1595,13 @@ e. Prompts para capacitación basada en procesos (Manuales operativos, Guías pa
 2.	Selecciona la opción **Create** del menú lateral izquierdo
 
 
-![Imagen 56.](/images/Imagen1.png "Imagen 56")
+![Imagen 61.](/images/Imagen61.png "Imagen 61")
 
 
 3.	Elige la opción **Create an image**
 
 
-![Imagen 57.](/images/Imagen1.png "Imagen 57")
+![Imagen 62.](/images/Imagen62.png "Imagen 62")
 
 
 4.	Escriba y aplique alguno de los siguientes prompts (luego de escribir haga clic en **Create**):
@@ -1584,13 +1624,13 @@ Reunión híbrida de negocios donde un consultor sustenta una propuesta técnica
 5.	Espere a que se genere la imagen, y luego observe la imagen generada (imagen referencial)
 
 
-![Imagen 58.](/images/Imagen1.png "Imagen 58")
+![Imagen 63.](/images/Imagen63.png "Imagen 63")
 
 
 6.	En las herramientas de la derecha selecciona **Transform**
 
 
-![Imagen 59.](/images/Imagen1.png "Imagen 59")
+![Imagen 64.](/images/Imagen64.png "Imagen 64")
 
 
 7.	Describe un cambio que quieras realizar a la imagen usando un prompt ``` (ejemplo: quita 2 personas de la reunion. el consultor que expone debe estar mas animado). ``` Finalmente selecciona **Update**
@@ -1600,7 +1640,7 @@ Reunión híbrida de negocios donde un consultor sustenta una propuesta técnica
 9.	Nota: tambien se pueden modifcar **Style**, **Brand and color** y **Square**.
 
 
-![Imagen 60.](/images/Imagen1.png "Imagen 60")
+![Imagen 65.](/images/Imagen65.png "Imagen 65")
 
 
 10.	Finalmente puede descargar la imagen si desea.
@@ -1610,7 +1650,7 @@ Reunión híbrida de negocios donde un consultor sustenta una propuesta técnica
 12.	Seleccione la opción **Create a video**
 
 
-![Imagen 61.](/images/Imagen1.png "Imagen 61")
+![Imagen 66.](/images/Imagen66.png "Imagen 66")
 
 13.	Escribe y aplica el siguiente prompt, luego haz clic en Create:  
 ```Genera un video de marketing dinámico para impulsar la venta rápida de un producto perecible con alta rotación.  
@@ -1625,26 +1665,26 @@ El resultado debe ser adecuado para campañas en redes sociales y pantallas digi
 ``````
 14.	Espera a que el video se genere, luego observa el video generado (imagen referencial):
 
-![Imagen 62.](/images/Imagen1.png "Imagen 62")
+![Imagen 67.](/images/Imagen67.png "Imagen 67")
 
 15.	Edita partes del transcript que desees cambiar, modifica el texto y selecciona Update. Vuelve a reproducir el video (imagen referencial)
 
 
-![Imagen 63.](/images/Imagen1.png "Imagen 63")
+![Imagen 68.](/images/Imagen68.png "Imagen 68")
 
 16.	En el menú lateral derecho selecciona Adjust. Modfica Music, Voice y Brand and color a tu gusto. Vuelve a reproducir el video.
 
-![Imagen 64.](/images/Imagen1.png "Imagen 64")
+![Imagen 69.](/images/Imagen69.png "Imagen 69")
 
 17.	Si deseas realizar ajustes mas apreciables al video selecciona Transform en el menú lateral derecho. Puedes cambiar el prompt, ajustar el Tone y hacer clic en Regenerate.
 
-![Imagen 65.](/images/Imagen1.png "Imagen 65")
+![Imagen 70.](/images/Imagen70.png "Imagen 70")
 
 18.	Seleccione la opción Create del menú izquierdo
 
 19.	Elige la opción Design an infographic (imagen referencial)
 
-![Imagen 66.](/images/Imagen1.png "Imagen 66")
+![Imagen 71.](/images/Imagen71.png "Imagen 71")
 
 20.	Aplica el siguiente prompt  
 ```
@@ -1658,7 +1698,7 @@ Diseña una infografía de concientización sobre el uso de contraseñas seguras
 
 24.	Selecciona la opción Create a story (imagen referencial)
 
-![Imagen 67.](/images/Imagen1.png "Imagen 67")
+![Imagen 72.](/images/Imagen72.png "Imagen 72")
 
 25.	Escribe y aplica el siguiente prompt, luego haz clic en Create:  
 ```
@@ -1689,13 +1729,13 @@ El reto de innovación fue resuelto, se muestra al equipo exitoso
 
 27.	Puede editar alguna de las escenas si desea (imagen referencial):
 
-![Imagen 68.](/images/Imagen1.png "Imagen 68")
+![Imagen 73.](/images/Imagen73.png "Imagen 73")
 
 28.	Puede modificar la imagen con un nuevo prompt, también ajustar **Brand and Color, Style y Square** a su gusto, luego seleccione **Update**
 
 29.	Puede repetir el procedimiento para editar las demás escenas (imagen referencial):
 
-![Imagen 69.](/images/Imagen1.png "Imagen 69")
+![Imagen 74.](/images/Imagen74.png "Imagen 74")
 
 30.	Observe el resultado generado. Si desea exporte el resultado a PowerPoint.
 
@@ -1703,7 +1743,7 @@ El reto de innovación fue resuelto, se muestra al equipo exitoso
 
 32.	Elige la opción **Design a poster** (imagen referencial)
 
-![Imagen 70.](/images/Imagen1.png "Imagen 70")
+![Imagen 75.](/images/Imagen75.png "Imagen 75")
 
 33.	Escriba y aplique el siguiente prompt y luego haga clic en **Create:**  
 ```
@@ -1711,7 +1751,7 @@ Crea un póster de lanzamiento para la nueva versión de la Intranet Corporativa
 ```
 34.	Ajusta **Brand and Color** a tu gusto, luego selecciona **Create**
 
-![Imagen 71.](/images/Imagen1.png "Imagen 71")
+![Imagen 76.](/images/Imagen76.png "Imagen 76")
 
 35.	Observa el resultado generado. Realiza los ajustes que desees.
 
@@ -1719,11 +1759,11 @@ Crea un póster de lanzamiento para la nueva versión de la Intranet Corporativa
 
 
 
-![Imagen 72.](/images/Imagen1.png "Imagen 72")
+![Imagen 77.](/images/Imagen77.png "Imagen 77")
 
 (imagen referencial)
 
-![Imagen 73.](/images/Imagen1.png "Imagen 73")
+![Imagen 78.](/images/Imagen78.png "Imagen 78")
 
 
 37.	Aplica el siguiente prompt  
@@ -1732,11 +1772,11 @@ Genera un banner para campaña por tiempo limitado sobre el producto Toallas de 
 ```
 38.	Selecciona **Teams post** y luego selecciona **Create**
 
-![Imagen 74.](/images/Imagen1.png "Imagen 74")
+![Imagen 79.](/images/Imagen79.png "Imagen 79")
 
 39.	Observa las alternativas generadas. Sobre la que desees selecciona Edit (imagen referencial)
 
 
-![Imagen 75.](/images/Imagen1.png "Imagen 75")
+![Imagen 80.](/images/Imagen80.png "Imagen 80")
 
 40.	Aplica las modificaciones que desees usando las opciones del menú derecho como **Transform, Edit** y actualiza con **Update**
